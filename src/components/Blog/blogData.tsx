@@ -3,33 +3,33 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Itap: El nuevo ecosistema técnologico para tu Bar ",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+      "iTap es un servicio innovador que permite el autoservicio de cerveza de forma autónoma en bares y eventos.",
+    image: "/images/blog/itap.svg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Macol Burna",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Ingeniero, M.Sc. en IoT",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: ["IoT"],
+    publishDate: "11/06/2024",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Chatbotear: Como automatizar las ventas y control de stock en tu negocio",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
+      "Chatbotear es un servicio que permite automatizar el proceso de consulta, venta y status de los productos de tu negocio",
+    image: "/images/blog/chatbotear.svg",
     author: {
-      name: "Musharof Chy",
+      name: "Mariano Dambolena",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "Ingeniero en Sistemas",
     },
-    tags: ["computer"],
-    publishDate: "2025",
+    tags: ["Inteligencia Artificial"],
+    publishDate: "15/06/2024",
   },
-  {
+  /*{
     id: 3,
     title: "Tips to quickly improve your coding speed.",
     paragraph:
@@ -42,6 +42,6 @@ const blogData: Blog[] = [
     },
     tags: ["design"],
     publishDate: "2025",
-  },
+  },*/
 ];
 export default blogData;

@@ -1,7 +1,7 @@
 import { Menu } from "@/types/menu";
 
 const menuData: Menu[] = [
-  {
+  /*{
     id: 1,
     title: "Principal",
     path: "/",
@@ -25,7 +25,7 @@ const menuData: Menu[] = [
     path: "/contact",
     newTab: false,
   },
-  /*{
+  {
     id: 4,
     title: "paginas",
     newTab: false,
