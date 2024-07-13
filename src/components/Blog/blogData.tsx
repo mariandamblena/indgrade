@@ -15,7 +15,7 @@ const blogData: Blog[] = [
     tags: ["IoT"],
     publishDate: "11/06/2024",
   },
-  {
+  /*{
     id: 2,
     title: "Chatbotear: Como automatizar las ventas y control de stock en tu negocio",
     paragraph:
@@ -28,7 +28,7 @@ const blogData: Blog[] = [
     },
     tags: ["Inteligencia Artificial"],
     publishDate: "15/06/2024",
-  },
+  },*/
   /*{
     id: 3,
     title: "Tips to quickly improve your coding speed.",
